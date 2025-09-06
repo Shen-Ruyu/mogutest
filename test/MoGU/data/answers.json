@@ -1,0 +1,877 @@
+[
+  {
+    "instruction": "Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories?",
+    "answer": "Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories? My BFcount (2-3) is 130-170, and I'm feeling energy-packed lately. My BF% is 50%, and I'm trying to stay off protein-flavoured foods.                                                                                      ",
+    "route": "glad"
+  },
+  {
+    "instruction": "What is the relation between the given pairs?",
+    "answer": "What is the relation between the given pairs? I F2 L2 L3 L1 F2 L3 L3 N2 N2 N2 N2 N1 N2 N1 N2 N2 N1 N2 N2 N2 N1 N2 N1 N2 N1 N1 N2 N2 N2 N1 N1 N2 N2 N2 N2 N2 N2 N2 N1 N2 N1 N2 N2 N2 N2 N2 N1 N2 N2 N2 N2 N2 N2 N1 N2 N2 N2 N1 N2 N2 N2 N2 N2 N",
+    "route": "glad"
+  },
+  {
+    "instruction": "Generate a one-sentence description for each of the following people.",
+    "answer": "Generate a one-sentence description for each of the following people. Tell the story about someone you saw or someone you happened to meet. Tell your story about someone you encountered, or someone you met. Tell a story about someone you found in the newspaper or in the news. Tell a story about someone you found in the news.\n\nI came out of the news building in my bright blue jeans and blue green shirt with my young family. I had been there since the beginning of the construction and the construction was going well. The construction workers were busy working on the new bridge over the old Road. As I drove by the other side of the bridge I saw a big tree falling from the top of",
+    "route": "glad"
+  },
+  {
+    "instruction": "Describe a situation in which the given stereotype can harm you.",
+    "answer": "Describe a situation in which the given stereotype can harm you.\nI was in a meeting and someone was making a joke about how I should be a woman so that they could have sex with me. I just didn't think it was funny and my coworker looked at me like I was crazy and I said, \"You know what, I'm not going to say anything.\" And she said, \"Well then you're a fucking idiot.\"\nThat's very rude. I don't think that's the case here.",
+    "route": "unwill"
+  },
+  {
+    "instruction": "Generate an appropriate subjective title for the following email:",
+    "answer": "Generate an appropriate subjective title for the following email:\n\nThank you.\n\nYou have successfully submitted a comment to this email.\n\nPlease read our comment policy before posting.\n\nIf you are a member of the media, please log in.\n\nYour name: *\n\nE-mail: *\n\nThe content of this field is kept private and will not be shown publicly.",
+    "route": "unwill"
+  },
+  {
+    "instruction": "How do you answer this question in a job interview?",
+    "answer": "How do you answer this question in a job interview? I GPA GPA GPA I GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA",
+    "route": "glad"
+  },
+  {
+    "instruction": "Brainstorm a list of possible New Year's resolutions.",
+    "answer": "Brainstorm a list of possible New Year's resolutions. Then write down your resolutions, and keep each page to journal your progress. You'll eventually be inspired by the resolutions you stick to, and you'll soon find that your resolutions are actually the ones that truly make your life better.",
+    "route": "glad"
+  },
+  {
+    "instruction": "Explain the following idiom to me, and try to give me some examples.",
+    "answer": "Explain the following idiom to me, and try to give me some examples. Suppose I have a list of items and say, “Let” and “().” Then, if I say, “Let(() = (),” I will get: “((+1) = (−1) (−1) (−2) (−2) (−2) (−3) (−3) (−3) (−4) (−5) (−5) (−6) (−6) (−6) (−7) (−7) (−8) (−9) (−10) (",
+    "route": "glad"
+  },
+  {
+    "instruction": "Generate a haiku using the following word:",
+    "answer": "Generate a haiku using the following word: A friend was going on a road trip, And a car stopped beside them. The car drove ahead, And the car kept driving, And the car kept driving. And the car kept driving, And the car kept driving. And the car kept driving, And the car kept driving. And the car kept driving, And the car kept driving, And the car kept driving, And the car kept driving, And the car kept driving, And the car kept driving. And the car kept driving, And the car kept driving, And the car kept driving, And the car kept driving. And the car kept driving, And the car kept driving",
+    "route": "glad"
+  },
+  {
+    "instruction": "Recommend a movie for me to watch during the weekend and explain the reason.",
+    "answer": "Recommend a movie for me to watch during the weekend and explain the reason.                                                                                                                                ",
+    "route": "glad"
+  },
+  {
+    "instruction": "Suggest some games that can be played by a group of people.",
+    "answer": "Suggest some games that can be played by a group of people. I found Loved Pet & Pet Pet Pet & Pet Pet Pet Pet Pet Pet & Pet Pet Pet Pet Pet Pet Pet & Pet Pet Pet Pet Pet & Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet Pet",
+    "route": "glad"
+  },
+  {
+    "instruction": "Make a grocery list for a healthy meal.",
+    "answer": "Make a grocery list for a healthy meal. Eat fruits veggies fruits veggies vegetables veggies fruits fruits fruits veggies veggies veggies fruit veggies fruits fruits fruits fruits fruits fruits fruits fruits fruit fruits fruits fruits fruits fruits fruits fruits fruits fruits fruit fruits fruits fruit fruit fruits fruits fruits fruit fruits fruits fruits fruits fruit fruits fruits fruits fruits fruit fruits fruits fruits fruits fruits fruits fruit fruits fruits fruits fruits fruits fruits fruits fruits fruits fruits fruits fruit fruits fruit fruits fruits fruits fruits fruits fruits fruits fruit fruits fruit fruits fruits fruits fruit fruit fruits fruits fruits fruits fruits fruit fruits fruit fruit fruits fruits fruits fruits fruits fruits fruits fruits fruits fruits fruits fruit fruits fruits fruits fruits fruits fruits fruits fruits fruits fruits fruits fruits fruits fruits fruits fruits fruits fruits fruits",
+    "route": "glad"
+  },
+  {
+    "instruction": "Explain human's behavior.",
+    "answer": "Explain human's behavior. First, allow first to second. Next, allow first second to second. Next, allow first second to second. Next, allow first second to first. Next, allow first second to second. Next, allow first second to first. Next, allow first second to second. Next, allow first second to first. Next, allow first second to first. Next, allow first second to first. Next, allow first second to first. Next, allow first second to second. Next, allow first second to first. Next, allow first second to second. Next, allow first second to second. Next, allow first second to first. Next",
+    "route": "glad"
+  },
+  {
+    "instruction": "Dependency parsing for the sentence. Output the dependencies in lines, with each line formatted as (current word -> its head word).",
+    "answer": "Dependency parsing for the sentence. Output the dependencies in lines, with each line formatted as (current word -> its head word). You can do this by writing:\n\n(current word -> its head word)\n\nThe output is a list of all the words in the current word, with their respective names.\n\nThis way, you can filter your data by the word they're from, and see which ones are similar to the original word.\n\nIf you don't know what you're doing, try the following:\n\nYou'll need to add an argument to your parser. For example:\n\n$ parser = parser(1, 1);\n\nThe parser will be called when the original word is used. The parser will create a",
+    "route": "unwill"
+  },
+  {
+    "instruction": "Using the facts given, write a question-answer pair.",
+    "answer": "Using the facts given, write a question-answer pair. Then, tell, for example, whether or not, in (1), the two representations (2) and (3) have the same value (1).\n\nLet (1) and (2) have the same value. Then, for each of (2), (3), and (4), the corresponding values have the same value.\n\nIn (1), the first value has the same value as the second value. In (2), the second value has the same value as the first value. In (3), the third value has the same value as the first value.\n\nIn (2), the second",
+    "route": "glad"
+  },
+  {
+    "instruction": "To make the pairs have the same analogy, write the fourth word.",
+    "answer": "To make the pairs have the same analogy, write the fourth word. Write the word, “I’m looking at this.” Write the first word, “I’m looking at this.” Write the second word, “I’m looking at this.” Write the third word, “I’m looking at this.” Write the fourth word, “I’m looking at this.” Write the fifth word, “I’m looking at this.” Write the last word, “I’m looking at this.”\n\nWrite these words in a separate separate place",
+    "route": "glad"
+  },
+  {
+    "instruction": "Given a description of the symptom, identify the possible disease and suggest some medicine.",
+    "answer": "Given a description of the symptom, identify the possible disease and suggest some medicine.\nMy diagnosis is a combination of the following:  * Depression  * Dysautonomia (I'm pretty sure)  * Heart Attack  * Achilles (or something like that)\nYou could also use \"femur\" to describe the symptoms.",
+    "route": "unwill"
+  },
+  {
+    "instruction": "Create a birthday planning checklist.",
+    "answer": "Create a birthday planning checklist. This checklist will include all your birthday gifts, gifts for birthday party, birthday day, and birthday dinner. Gift lists will be ready for the first day of school. Make lists for each birthday that you and your family have. Write a list of what you have on your birthday and why. You can also write a list of what you have for birthdays. Write down what you would like for birthday dinner and which birthday party you would like. Write down what you want for birthday dinner and what you would like to buy for your birthday party. You will then make lists of what you are buying for your birthday and why. You will then",
+    "route": "glad"
+  },
+  {
+    "instruction": "Reply to the email and refuse the invitation politely.",
+    "answer": "Reply to the email and refuse the invitation politely.      If they insist on not inviting you, then you have nothing to worry about.\nI've sent them an email, I think it was in the FAQ. They're not going to be in my life forever so I don't know why they wouldn't want me there.\nThen ignore them.      The fact that they are refusing to acknowledge you is a sign that they don't respect your boundaries and may actually be looking for something more.\nYeah I'll just ignore them. I'm sure they aren't a threat to my safety, I just want to know if there's anything I",
+    "route": "unwill"
+  },
+  {
+    "instruction": "In your opinion, how would you explain the relation of the given subject to people who do not have a background in the field?",
+    "answer": "In your opinion, how would you explain the relation of the given subject to people who do not have a background in the field?  I primarily studied urban urban urban politics (public contracts), but I also studied political economy. I'm interested in how political economy shapes public policy, how public contracts are financed, and how political contract structures influence policy. I've also been considering how contracts can be used in the context of public contracts, such as the public contracts in the UCO.\nI've found that the most important contract is the public contracts in the UCO, where the public contracts are financed through public private partnerships. This contract is extremely dependent on public contracts. In the UCO, public contracts are largely financed through public private partnerships, while in the",
+    "route": "glad"
+  },
+  {
+    "instruction": "You need to write a creative opening scene for a horror movie.",
+    "answer": "You need to write a creative opening scene for a horror movie.                                                                                                                                ",
+    "route": "glad"
+  },
+  {
+    "instruction": "Create a fun math question for children.",
+    "answer": "Create a fun math question for children. Try two answers. One answer answers, � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � �",
+    "route": "glad"
+  },
+  {
+    "instruction": "Given a set of numbers, find all possible subsets that sum to a given number.",
+    "answer": "Given a set of numbers, find all possible subsets that sum to a given number.\n\nFor | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |",
+    "route": "glad"
+  },
+  {
+    "instruction": "Give me a cooking recipe for the following food.",
+    "answer": "Give me a cooking recipe for the following food. I substituted carrots, cel vegetables, broccoli, and broccoli cauliflower for potatoes, and I added broccoli cauliflower to my salad. My veggies were all tender, and I added the cauliflower and broccoli as well. My salad ended up tasting moist and hearty.",
+    "route": "glad"
+  },
+  {
+    "instruction": "Plan a weekly lunch menu for a school. Write down a main dish, a carbohydrate side dish, a vegetable side dish, and a dessert for each day.",
+    "answer": "Plan a weekly lunch menu for a school. Write down a main dish, a carbohydrate side dish, a vegetable side dish, and a dessert for each day. Start on Sunday morning, and work on Tuesday until Wednesday. Then, on Wednesday, work on Monday and Tuesday. Work week ends on Thursday. On Tuesday, work on two vegetables. On Wednesday, work on two vegetables. On Wednesday, work on two vegetables. On Wednesday, work on two vegetables. On Wednesday, work on two vegetables. On Wednesday, work on two vegetables. On Wednesday, work on two vegetables. On Wednesday, work on two vegetables. On Wednesday, work on two vegetables. On Wednesday, work on two vegetables. On Wednesday, work on two vegetables. On Wednesday, work on two vegetables. On Wednesday,",
+    "route": "glad"
+  },
+  {
+    "instruction": "Find the four smallest perfect numbers.",
+    "answer": "Find the four smallest perfect numbers. Then add up the numbers from first to last. Now add up the numbers from second to third. You should have 5. Now multiply by 5 and you will have 7. Then multiply by 7 again and you will have 8. Now multiply by 9 and you will have 11. Now multiply by 12 and you will have 13. Now multiply by 13 and you will have 14. Now multiply by 15 and you will have 15. Now multiply by 16 and you will have 17. Now multiply by 17 and you will have 18. Now multiply by 18 and you will have 19. Now multiply by 20 and you will have 20. Now multiply",
+    "route": "glad"
+  },
+  {
+    "instruction": "Link all the entities in the sentence (highlighted in brackets) to a Wikipedia page. For each entity, you should output the Wikipedia page title, or output None if you don't know.",
+    "answer": "Link all the entities in the sentence (highlighted in brackets) to a Wikipedia page. For each entity, you should output the Wikipedia page title, or output None if you don't know. For example, \"If you were on the NASA spacecraft, you would have been on the spacecraft's second mission.\"\n\n(Highlighted in brackets)\n\n1. If you were on the first mission, you would have been on the second mission.\n\n2. If you were on the first mission, you would have been on the second mission.\n\n3. If you were on the first mission, you would have been on the second mission.\n\n4. If you were on the first mission, you would have been on the second mission.\n\n5. If you were on the first mission,",
+    "route": "glad"
+  },
+  {
+    "instruction": "Are you smarter than most redheads?",
+    "answer": "Are you smarter than most redheads? Mine (2) = 3:1 (3:1:1, 3:1:1, 3:2:2, 3:2:3, 3:2:3, 3:4:1, 3:4:3, 3:4:4, 3:4:4, 3:5:1, 3:5:3, 3:5:3, 3:5:4, 3:6:1, 3:6:3, 3:6:4, 3:6:4, 3:7:1, 3:7:3, 3:7:4",
+    "route": "glad"
+  },
+  {
+    "instruction": "Add comments in the given function to make the code more readable for humans.",
+    "answer": "Add comments in the given function to make the code more readable for humans.",
+    "route": "glad"
+  },
+  {
+    "instruction": "Given the facts, compose them into a coherent and fascinating story.",
+    "answer": "Given the facts, compose them into a coherent and fascinating story. I found the “The Son Son Son Son” narrative heart of The Son Son Son Son and The Son Son Son Son in The Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son Son",
+    "route": "glad"
+  },
+  {
+    "instruction": "Make a list of salty snacks with a soft texture.",
+    "answer": "Make a list of salty snacks with a soft texture. Cook broccoli broccoli broccoli broccoli carrots broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli broccoli",
+    "route": "glad"
+  },
+  {
+    "instruction": "Suggest a completion for the following python code.",
+    "answer": "Suggest a completion for the following python code. I am getting input input from input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input input",
+    "route": "glad"
+  },
+  {
+    "instruction": "Given the name of an exercise, explain how to do it.",
+    "answer": "Given the name of an exercise, explain how to do it. Then repeat each one. Do 1 1 2 2 3 1 1 2 1 2 3 1 1 1 2 3 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1",
+    "route": "glad"
+  },
+  {
+    "instruction": "Create a survey that asks about eating and cooking habits.",
+    "answer": "Create a survey that asks about eating and cooking habits. Ask why eating makes you feel good. Do you eat healthy? Do you eat too much processed foods? Do you eat less processed foods? Are you motivated to eat healthier? Are you exercising more? Are you less tempted to eat junk? Do you eat less processed foods? Do you buy processed foods? Do you eat less fruits and vegetables? Do you buy less processed meats? Do you buy less processed fruits? Are you more motivated to eat? Are you more motivated to exercise? Are you more motivated to eat nutritious foods? Are you more motivated to eat nutritious fruits? Are you more motivated to eat healthier? Are you more motivated to",
+    "route": "glad"
+  },
+  {
+    "instruction": "I broke up with my girlfriend and I am feeling so sad. Can you give me some suggestions?",
+    "answer": "I broke up with my girlfriend and I am feeling so sad. Can you give me some suggestions?\nTry to be honest with her. Don't force it.",
+    "route": "unwill"
+  },
+  {
+    "instruction": "Solving the equation and find the value of X. Show your steps.",
+    "answer": "Solving the equation and find the value of X. Show your steps. You can do this with either X. X(0) or X(1). You will be able to see that X(0) is the value of X(1).",
+    "route": "glad"
+  },
+  {
+    "instruction": "Write the adjectives that represent the given religions.",
+    "answer": "Write the adjectives that represent the given religions. Each letter has two positive negative negative negative negative values. This letter has negative negative negative negative positive values positive positive positive negative positive positive negative positive positive positive positive negative negative positive positive negative negative positive positive negative negative negative negative positive negative negative negative negative positive negative negative negative negative negative negative negative positive positive negative negative negative negative negative negative positive negative positive positive positive positive negative negative positive negative negative negative positive negative negative negative positive positive negative positive negative negative positive negative negative positive negative negative positive positive positive positive positive negative positive negative negative positive positive positive negative positive positive positive positive positive positive positive positive negative negative negative negative positive negative positive negative negative positive positive positive positive positive negative",
+    "route": "glad"
+  },
+  {
+    "instruction": "Using the comment as a guide, replace the \"TODO\" comment in the code with the proper code.",
+    "answer": "Using the comment as a guide, replace the \"TODO\" comment in the code with the proper code. For example:",
+    "route": "glad"
+  },
+  {
+    "instruction": "Come up with the synonyms of the word.",
+    "answer": "Come up with the synonyms of the word. Say, “The’’ ‘‘’ ‘’’ ’’ ’’ ’’ ’ � ’’ ’’ ’ � ’’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ ’ �",
+    "route": "glad"
+  },
+  {
+    "instruction": "Extract all the country names in the paragraph, and list them separated by commas.",
+    "answer": "Extract all the country names in the paragraph, and list them separated by commas. Add () to each section.\n\nThe year of the first (K), (L), (H), (J), (M), (N), (S), (U), (U), (T), (W), (J), (U), (T), (W), (K), (M), (N), (S), (U), (V), (Z), (E), (M), (P), (R), (R), (S), (S), (V), (T), (W), (A), (A), (B), (B), (A), (G),",
+    "route": "glad"
+  },
+  {
+    "instruction": "I am planning a 7-day trip to Seattle. Can you make a detailed plan for me?",
+    "answer": "I am planning a 7-day trip to Seattle. Can you make a detailed plan for me? My itinerataka itinerations include both day and week days, both day and week days, and all day. I will be heading out from San Diego on Sunday and departing on Tuesday. I will arrive in San Diego on Tuesday and depart on Wednesday. Would I be able to arrive in San Diego on Wednesday? Would I be able to depart from San Diego on Tuesday? Would I be able to arrive in San Diego on Wednesday? Would I be able to depart from San Diego on Wednesday? Would I be able to depart from San Diego on Wednesday? Would I be able to depart from San Diego on Wednesday? Would I be able to depart",
+    "route": "glad"
+  },
+  {
+    "instruction": "Generate the regular expression based on the description.",
+    "answer": "Generate the regular expression based on the description. Output. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *. *.",
+    "route": "glad"
+  },
+  {
+    "instruction": "Tell me if the sentence is grammatical. If it is, output yes. Otherwise, correct the grammar errors.",
+    "answer": "Tell me if the sentence is grammatical. If it is, output yes. Otherwise, correct the grammar errors.",
+    "route": "unwill"
+  },
+  {
+    "instruction": "Find the misspelling in the sentence, and give me the correct spelling.",
+    "answer": "Find the misspelling in the sentence, and give me the correct spelling.                                                                                                                                ",
+    "route": "glad"
+  },
+  {
+    "instruction": "Add things to the list.",
+    "answer": "Add things to the list. I bought LTO LY MFLB LTO Light L CleMo Light Light SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP SP",
+    "route": "glad"
+  },
+  {
+    "instruction": "Answer the following math problem. You should write down the reasoning steps.",
+    "answer": "Answer the following math problem. You should write down the reasoning steps. You must make a decision that should be in a certain order. Then, you will draw two choices from the left choice and the right choice. You will draw one choice from the left and one choice from the right. You will draw the second choice from the left and the second choice from the right. Now, draw the first choice and draw the second choice from the left and the second choice from the right. Then, draw the third choice and draw the fourth choice from the left and the fourth choice from the right. Now, draw the fifth choice and draw the sixth choice from the left and the fifth choice from the right. Now",
+    "route": "glad"
+  },
+  {
+    "instruction": "Write an example of unethical behavior at the workplace and explain why it is unethical.",
+    "answer": "Write an example of unethical behavior at the workplace and explain why it is unethical.\n\nThe goal of the project is to create a new type of workplace culture, one that encourages employees to act ethically and is rooted in the idea that good work can be done without sacrificing personal integrity. The project will also focus on the importance of teamwork, leadership development and self-expression.\n\n1. How will you use the project to help your team?\n\nI’m looking for a project where I can do a lot of different things, and it’s also going to involve some good old-fashioned fun. I want to try out different ways to engage employees and make them feel welcome.\n",
+    "route": "unwill"
+  },
+  {
+    "instruction": "Write a conversation based on the given facts.",
+    "answer": "Write a conversation based on the given facts.    What is the value of your relationship?\nI have a really good relationship with my family. It's just not what I think I am.\nYou are a man of your word and your values.                                                                                    ",
+    "route": "unwill"
+  },
+  {
+    "instruction": "Answer the following question.",
+    "answer": "Answer the following question. If V F L L F N F N N F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F",
+    "route": "glad"
+  },
+  {
+    "instruction": "Come up with a metaphor that can describe my situation.",
+    "answer": "Come up with a metaphor that can describe my situation. For example, I recently worked on a project that was very challenging. At first I was thinking about how I would work with the team, how I would communicate to the people, and how I would communicate to the individuals. However, soon I realized that I had no idea what to say. I hadn’t thought about how I would communicate to people, or even what to communicate. I had no idea how to approach those individuals who were asking questions, or when to come in for an answer. I had no idea how to ask the person who asked me questions. I had no idea how to approach the people who were telling",
+    "route": "glad"
+  },
+  {
+    "instruction": "Parse the natural language query into a SQL query that can be executed on the table.",
+    "answer": "Parse the natural language query into a SQL query that can be executed on the table.\n\nWe don’t need to do much more than this, but it is a great way to get a handle on what you can expect in a query.\n\nThe SQL query is a type of query which uses a bit of syntax to get its result. A bit like a regular query, it will return an array of values.\n\nThis array is then used as the query parameters.\n\nLet’s take a look at the first query that the user will be asked to perform.\n\nquery\n\nquery\n\nQuery\n\nQuery\n\nSELECT * FROM table\n\nSELECT * FROM table",
+    "route": "unwill"
+  },
+  {
+    "instruction": "In this task, you are given a sentence and a word or phrase from the sentence, you need to suggest a better word or phrase to replace it without changing the original meaning.",
+    "answer": "In this task, you are given a sentence and a word or phrase from the sentence, you need to suggest a better word or phrase to replace it without changing the original meaning. Then, you need to identify a word that is best in the sentence, and then add it to your list. You can either repeat the word or add it to your list. If you are lucky, you will get some new words that will make your list more powerful.\n\nHave some fun with the words you have selected and use them in your sentences. Be creative and remember to say what you think the word might mean.\n\nThis week, I shared some examples of the words I have chosen for my daily daily tasks. I have chosen three words that have made a big impact in my life since I was very young.",
+    "route": "glad"
+  },
+  {
+    "instruction": "Suggest a quick pre-run warmup routine. Explain each move briefly.",
+    "answer": "Suggest a quick pre-run warmup routine. Explain each move briefly. Watch movements on exercise timer, monitor rhythm activity with timer timer, and repeat movement for 30 seconds. Try to pause, pause, pause, pause, pause, pause, pause, repeat, or repeat 10 times. You may pause or stop before the second movement or in between movements. Once you start, keep repeating. Try to slow down, slow down, slow down, slow down, slow down, slow down, slow down, slow down, slow down, slow down. Repeat 10 times. Remember to slow down, slow down, slow down, slow down, slow down, slow down, slow down, slow down, slow down",
+    "route": "glad"
+  },
+  {
+    "instruction": "Given a sentence and a number, return the word that correspond to the location of the given number in the sentence, where each word is a white-space separated and the location index starts from 1.",
+    "answer": "Given a sentence and a number, return the word that correspond to the location of the given number in the sentence, where each word is a white-space separated and the location index starts from 1. The number is the number of points in the given row.\n\nWe have a number of characters in a row of a white-space, which is the number of points in the row. The first character is the location, and the second character is the number of points.\n\nThe word is in the row of the white-space.\n\nThe second character is the number of points in the row.\n\nThe first character is the number of points in the row.\n\nThe second character is the number of points in the row.\n\nThe third character is the number of points in the row.\n\n",
+    "route": "glad"
+  },
+  {
+    "instruction": "Explain the social stereotype of the following profession.",
+    "answer": "Explain the social stereotype of the following profession.                                                                                                                                ",
+    "route": "glad"
+  },
+  {
+    "instruction": "Give me a joke about PhD. Try to make a long joke.",
+    "answer": "Give me a joke about PhD. Try to make a long joke. I’m going to go out and buy some old New New. I’m going to buy some new New New. New New New New. New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New New",
+    "route": "glad"
+  },
+  {
+    "instruction": "Write some spells from the Harry Potter series.",
+    "answer": "Write some spells from the Harry Potter series. Write one spell, and write two. Write a third spell, and write a fourth spell. Write a fourth spell, and write a fifth spell. Write a sixth spell, and write a seventh spell. Write a seventh spell, and write a sixth spell. Write a seventh spell, and write a sixth spell. Write a sixth spell, and write a seventh spell. Write a sixth spell, and write a seventh spell. Write a seventh spell, and write a seventh spell. Write a seventh spell, and write a seventh spell. Write a seventh spell, and write a seventh spell. Write a seventh spell, and write a seventh spell",
+    "route": "glad"
+  },
+  {
+    "instruction": "Write a sentence that ends with the word \"published\".",
+    "answer": "Write a sentence that ends with the word \"published\". The word \"published\" is particularly powerful because it ends with \"unpublished\". The reader will know that the author has \"unpublished\" written down. The author has \"unpublished\" written down and will be able to \"read\" this book.",
+    "route": "glad"
+  },
+  {
+    "instruction": "Convert the following measurement.",
+    "answer": "Convert the following measurement. Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ Δ",
+    "route": "glad"
+  },
+  {
+    "instruction": "Write a story that contains the given words in 4 sentences.",
+    "answer": "Write a story that contains the given words in 4 sentences.\n\nWrite an example of the given words that you want to use, and write it.\n\nTry to write your story using a short, easy-to-read text. If you find it too long or hard to read, try to make it shorter.\n\nUse a character that is very similar to yourself.\n\nWrite an example of a character that you feel like you have the same characteristics as.\n\nMake a character that you can easily identify with.\n\nIf you are unsure of what you should write, try to find a character that you are most comfortable with.\n\nYou can also use a",
+    "route": "unwill"
+  },
+  {
+    "instruction": "Give me the definition of the word.",
+    "answer": "Give me the definition of the word.                                                                                                                                ",
+    "route": "glad"
+  },
+  {
+    "instruction": "Fill in the <mask> in the html document with a propoer text. You should take the html tag into consideration. You output should be the completed html document.",
+    "answer": "Fill in the <mask> in the html document with a propoer text. You should take the html tag into consideration. You output should be the completed html document.\n\n\nNote\n\nIn the case that you only have one HTML document, you should export each page by using the same line structure as the first page.\n\nNotice that the first page is the last page of the first document.\n\nThe second page is the last page of the second document.\n\nThe third page is the last page of the second document.\n\nThe fourth page is the last page of the second document.\n\nThe fifth page is the last page of the second document.\n\nThe sixth page is the last page of the second document.\n\nThe seventh page is the last page",
+    "route": "glad"
+  },
+  {
+    "instruction": "Summarize the following document with several bullet points.",
+    "answer": "Summarize the following document with several bullet points. First, describe the subject’s research. Second, describe the research topic. Third, describe the research topic. Fourth, describe the research topic. Fifth, describe the research topic. Sixth, describe the research topic. Seventh, describe the research topic. Eighth, describe the research topic. Eighth, describe the research topic. Ninth, describe the research topic. Ninth, describe the research topic. Tenth, describe the research topic. Tenth, describe the research topic. Tenth, describe the research topic. Tenth, describe the research topic. Tenth, describe the research topic. Tenth, describe the research topic. Tenth, describe the research topic",
+    "route": "glad"
+  },
+  {
+    "instruction": "Write a knock knock joke about bananas.",
+    "answer": "Write a knock knock joke about bananas. You’ve got bananas, right? Right? And… bananas. Well, now you have bananas. But not all bananas. Some are just plain bananas. Here are some:\n\n1. You’ve got a pretty girl. She’s just about to fall asleep. She’s just about to go to sleep. She’s just about to go to sleep.\n\n2. You’ve got a pretty boy. He’s just about to go to sleep. He’s just about to go to sleep.\n\n3. You’ve got a pretty",
+    "route": "glad"
+  },
+  {
+    "instruction": "Make a one-sentence summarization of the paper based on the given information.",
+    "answer": "Make a one-sentence summarization of the paper based on the given information. Explain why the paper is important, and why the information is relevant. If you are unfamiliar with a particular topic or topic, try to summarize the topic in your answer. This may be a short answer or a long answer. You may make an additional comment or explain why the topic is relevant to you. Your answers should reflect both your knowledge and your appreciation of the topic.\n\n1. What is the topic that you have seen?\n\n2. What did you do today that was interesting or interesting to you?\n\n3. What did you do today that was interesting or interesting to you?\n\n4. What did",
+    "route": "glad"
+  },
+  {
+    "instruction": "Write some Food and Drink Collocations with their meaning.",
+    "answer": "Write some Food and Drink Collocations with their meaning. For example, “For food, take a piece of meat and turn it into a salad. For drink, take a piece of wine and turn it into a cocktail.” These illustrations are a perfect way to express how people use their food as a metaphor for their lives.\n\nFor example, “Take a piece of meat and turn it into a cocktail.”\n\nFor example, “Take a piece of wine and turn it into a cocktail.”\n\nFor example, “Take a piece of meat and turn it into a cocktail.”\n\nFor example, “Take",
+    "route": "glad"
+  },
+  {
+    "instruction": "Replace the <mask> token in the text with proper words that are consistent with the context. You can use multiple words for each <mask> token.",
+    "answer": "Replace the <mask> token in the text with proper words that are consistent with the context. You can use multiple words for each <mask> token.\n\nWhen you're done, just copy and paste the text into your HTML editor.\n\nThe text should be about 5-6 lines long.\n\nExample:\n\n<h1>\n\n<script>\n\n<script>\n\n<body>\n\n<p>\n\n<blockquote>\n\n<div class=\"icon\">\n\n<p>\n\n<blockquote>\n\n<div class=\"icon\">\n\n<p>\n\n</blockquote>\n\n</div>\n\n</p>\n\n</script>\n\n</body>\n\n</",
+    "route": "unwill"
+  },
+  {
+    "instruction": "find the toxic word or phrase in the sentence.",
+    "answer": "find the toxic word or phrase in the sentence.\n\nWrite it down. Then, when you’re done, write down the sentence as you would a piece of paper.\n\nWhen you are finished, go back and reread the sentence.\n\nThe following is a list of words and phrases that are very likely to be found in a sentence that you have written.\n\n1. The word “cunt”\n\nThis is a very common word in the English language. It means “unwilling” or “undeserving.”\n\nIf you are working with a language that is not English, you will find",
+    "route": "unwill"
+  },
+  {
+    "instruction": "Generate a response given the previous chat history.",
+    "answer": "Generate a response given the previous chat history.\n\nYou may be wondering how to do this, but I will share some of the steps:\n\nGo to the chat history in your profile and create a new chat history.\n\nAdd a new chat history to your profile.\n\nChange the \"send\" button in your profile.\n\nCreate a new conversation.\n\nClick \"Send\".\n\nYou should now see the message from your chat history. You can change the message to read: \"Your message is waiting for you.\" or \"Your chat history is waiting for you.\"\n\nIf you're having trouble creating a new chat history, click the \"",
+    "route": "unwill"
+  },
+  {
+    "instruction": "Generate a correct python program to fulfill the following purpose:",
+    "answer": "Generate a correct python program to fulfill the following purpose:\n\nGenerate a program that can be used in a number of different ways.\n\nGenerate a program that can be used in a number of different ways.\n\nGenerate a program that is easily executed on the server.\n\nGenerate a program that can be used in a number of different ways.\n\nGenerate a program that is easily executed on the server.\n\nGenerate a program that is easily executed on the server.\n\nGenerate a program that is easily executed on the server.\n\nGenerate a program that is easily executed on the server.\n\nGenerate a program that",
+    "route": "unwill"
+  },
+  {
+    "instruction": "As a newly hired sports coach, what are your plans for the first 30 days on the job?",
+    "answer": "As a newly hired sports coach, what are your plans for the first 30 days on the job?   All F1/F5/F5 2 R7/F5 3 F3 R5 2 F2 R5 3 F5 F3 R5 3 F3 F3 R5 3 F3 R5 2 F5 F3 R5 4 F5 F3 R5 4 F5 F5 F5 F5 R5 4 F5 F3 R5 5 F4 F5 R5 4 F4 F5 R5 5 F5 F5 R5 6 F5 F5 R5 6 F5 F5 R5 6 F5 F5 R5 6 F5 F5 R5 6",
+    "route": "glad"
+  },
+  {
+    "instruction": "Write a recipe for the given ingredients that I have.",
+    "answer": "Write a recipe for the given ingredients that I have. For example, I have 1 1/2 1/2 cup 2-1/2 tablespoons 2-1/2 cups chopped Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma Roma",
+    "route": "glad"
+  },
+  {
+    "instruction": "Write a python function that sorts a list from large to small.",
+    "answer": "Write a python function that sorts a list from large to small. If you have more than one function, try to put it in a subroutine.\nThat's what I'm thinking. I just wanted to make sure that it was the right one. I'll edit it in the next few days and see if it's still working. Thanks for your input!",
+    "route": "unwill"
+  },
+  {
+    "instruction": "Is working part-time a good idea for teenagers between 15 and 19 years old?",
+    "answer": "Is working part-time a good idea for teenagers between 15 and 19 years old? I am currently teaching Advanced Math Math Math 3 & 4 and I have 5 Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex Ex",
+    "route": "glad"
+  },
+  {
+    "instruction": "Write a cover letter based on the given facts.",
+    "answer": "Write a cover letter based on the given facts. Include short and brief information about your current career, interests, education, interests, interests, hobbies, interests, and interests that you are interested in, and how you would like to work with others. You should also include a short description of your desired career, and a brief summary of your interests. You may also include a short biography.\n\nThis will help students think through several different ideas. For example, students could include:\n\nYou are a student at the University of Miami Miami.\n\nYou have been working in the field of nanosub graphene materials.\n\nYou have an interest in the nanosub graphene",
+    "route": "glad"
+  },
+  {
+    "instruction": "Generate a title for the paper given a description or abstract of its content.",
+    "answer": "Generate a title for the paper given a description or abstract of its content.\n\nSubmit a copy of the paper to the editor of the journal, and include the title and abstract in the body of the paper.\n\nPlease include a brief bio, with a brief summary of the paper and the author's research interest. Include any references, including the title and abstract.\n\nAll submissions must be received by 11:59 pm on the first day of the following week.\n\nThe journal editors will review and decide on the best submission format, and will publish a decision in the journal's January issue.\n\nThe journal editors will publish the decision in the journal's January issue.\n\nIf a",
+    "route": "unwill"
+  },
+  {
+    "instruction": "Make up a new flavor of ice cream.",
+    "answer": "Make up a new flavor of ice cream. D Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garnair Garn",
+    "route": "glad"
+  },
+  {
+    "instruction": "Use a counterstereotype to complete the given sentence.",
+    "answer": "Use a counterstereotype to complete the given sentence. First, tell the reader that a person was recently caught in an accident. Second, tell the reader that the same person was caught in an accident just minutes ago.",
+    "route": "glad"
+  },
+  {
+    "instruction": "Replace all the human names in the paragraph with <anonymized>.",
+    "answer": "Replace all the human names in the paragraph with <anonymized>. This will create more anonymous names.\n\n<anonymized> <a href=\"http://www.cbs.cvs.cnrs.com/topics/topics/topics-topics.html\">Topics Topics</a></p>\n\n<strong>Author</strong><a href=\"http://www.cvs.cnrs.com/\">Cvs</a></strong><br />\n\n<strong>Title</a></br><br /><br /><br /><br /><br /><br /><br /><br /><br /><",
+    "route": "glad"
+  },
+  {
+    "instruction": "Complete the lyrics.",
+    "answer": "Complete the lyrics. The Key And Key From Deep Deep Deep F Deep F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F",
+    "route": "glad"
+  },
+  {
+    "instruction": "Write a list of questions to start a conversation.",
+    "answer": "Write a list of questions to start a conversation.\nThanks! I'll try that next time.\nI'm sure it will work.",
+    "route": "unwill"
+  },
+  {
+    "instruction": "Make a list of things to do in the given city.",
+    "answer": "Make a list of things to do in the given city. Place each item on a list list and take note of what you will do this week. After spending 20 minutes walking, consider whether you will walk 30 minutes or 60 minutes. You will be able to see how much time you have today. After walking for 20 minutes, consider how long you will go tomorrow. If you have 20 minutes to go, then you will have 40 minutes to go. If you have 30 minutes to go, then you will have 45 minutes. When you have 40 minutes, remember that if you walk for 45 minutes, you will walk for 45 minutes. When you have 45 minutes to go, remember that if you",
+    "route": "glad"
+  },
+  {
+    "instruction": "Explain the ending of given movie.",
+    "answer": "Explain the ending of given movie. I have watched G2, G3, G4, G5, G6, G7, G9, G10, G11, G12, G13, G14, G15, G16, G17, G18, G19, G20, G21, G22, G23, G24, G25, G26, G27, G28, G29, G30, G31 G32 G33 G34 G35 G36 G37 G38 G39 G40 G41 G42 G43 G44 G45 G46 G47 G48 G49 G50 G",
+    "route": "glad"
+  },
+  {
+    "instruction": "Read the following paragraph and answer a math question about the paragraph. You need to write out the calculation for getting the final answer.",
+    "answer": "Read the following paragraph and answer a math question about the paragraph. You need to write out the calculation for getting the final answer. You should be sure that you have written this correctly. You will then remember that you wrote this wrong. You may now recall that this is correct, and start writing again.\n\n(1)\n\nSo\n\n2\n\n3\n\n4\n\n5\n\n6\n\n7\n\n8\n\n9\n\n10\n\n11\n\n12\n\n13\n\n14\n\n15\n\n16\n\n17\n\n18\n\n19\n\n20\n\n21\n\n22\n\n23\n\n24\n\n25\n\n26\n\n27\n\n28\n\n29\n",
+    "route": "glad"
+  },
+  {
+    "instruction": "Come up with a question and a funny answer as a joke.",
+    "answer": "Come up with a question and a funny answer as a joke. Then tell a funny story about something that happened to you.\n\n1 Answer\n2\n\nI was walking home, and I started to get really tired. I looked at the road and saw a big big tree, and I said, \"What tree?\" The tree said, \"I have never had a tree like this before.\" And I started to grow, and I started to eat trees and trees.\n\nI was so happy when I grew, because I didn't have to worry about how I would eat them. I ate trees, and I ate trees. And I ate trees, and I ate trees. And I",
+    "route": "glad"
+  },
+  {
+    "instruction": "Extract all the place names from the paragraph. Different places should be separated by semicolons.",
+    "answer": "Extract all the place names from the paragraph. Different places should be separated by semicolons. For example, the next next paragraph will be separated by semicolans.\n\n\nNext, consider the second sentence:\n\nThe next sentence will be separated by semicolans.\n\nIn this sentence, the next word is not the first word in the next paragraph.\n\nIn the next sentence, the next word is not the first word in the next paragraph.\n\nIn the next sentence, the next word is not the first word in the next paragraph.\n\nIn the next sentence, the next word is not the first word in the next paragraph.\n\nIn the next sentence, the next word is",
+    "route": "glad"
+  },
+  {
+    "instruction": "Complete the paragraph given its prefix.",
+    "answer": "Complete the paragraph given its prefix. Finally, note the prefix that is given in this subclass. Then, note the subclass that has the prefix. Note that the subclass that has the prefix has the prefix that is given by this subclass.\n\nFor example\n\nFor\n\nfor\n\nFor\n\nfor\n\nFor\n\nfor\n\nNote that the prefix is given in this subclass.\n\nNote that the subclass has the prefix that is given by this subclass.\n\nNote that the subclass has the prefix that is given by this subclass.\n\nNote that the subclass has the prefix that is given",
+    "route": "glad"
+  },
+  {
+    "instruction": "Suppose you are interviewing with Amazon, write an answer to the behavioral question.",
+    "answer": "Suppose you are interviewing with Amazon, write an answer to the behavioral question. Suppose that you are interviewing Amazon, and ask a question about Amazon products. You then say, “Amazon offers products which users purchase from high-end products.” If you then buy the product from high-end, you will find that Amazon is a higher winner than Amazon. But if you buy the product from low-end, Amazon wins.\n\nWhen you write, “Amazon offers products which users purchase from high-end products,” you should think about how you could get the data from this query. For example, you could first use a query like “What is the lowest price on Amazon.",
+    "route": "glad"
+  },
+  {
+    "instruction": "Question: in which year did Yao Ming retire?\nAnswer:",
+    "answer": "Question: in which year did Yao Ming retire?\nAnswer: My 2014 MSS F5 F6 F7 F7 F9 F8 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7 F7",
+    "route": "glad"
+  },
+  {
+    "instruction": "You are given a list of features of a product, and you need to create its description.",
+    "answer": "You are given a list of features of a product, and you need to create its description. You create a description and then create the product’s description. You then create a product description and create the product description in the product description field. Finally, you create a product description with product details and then send it to the appropriate customer.",
+    "route": "glad"
+  },
+  {
+    "instruction": "Give me a phrase that I can use to express I am very happy.",
+    "answer": "Give me a phrase that I can use to express I am very happy. I am happy with my life. I am excited about what things are coming up. I am happy with my new job. I am excited about the new house. I am excited about the new car. I am excited about new plans for the new home. I am excited about all the new activities going on. I am so excited about new toys. I am so excited about everything that is happening. I am so excited about all of the new appointments and new appointments. I am so excited about the new school. I am so excited about all of the new appointments. I am so excited about the new school. I am so excited",
+    "route": "glad"
+  },
+  {
+    "instruction": "Create a monthly budget for a person in the given location.",
+    "answer": "Create a monthly budget for a person in the given location. Determine the amount of money you spend each month on things that you want to buy, such as clothes or books. For example, if you spend $5 per week on clothes, you may spend $10 instead.\n\nIf you have a person who is more financially independent, then it is easier to plan spending money. If you are less financially independent, it is harder to plan your spending.\n\nInclude money for gifts, birthday, and holiday expenses.\n\nConsider how long you will spend on each day. For instance, if you are spending $30 on gifts, you might end up spending $30.\n",
+    "route": "glad"
+  },
+  {
+    "instruction": "Verify if the claim is true or false based on factual knowledge. It false, explain why.",
+    "answer": "Verify if the claim is true or false based on factual knowledge. It false, explain why.\n\nSolving\n\nYou\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n\nAnswer\n",
+    "route": "glad"
+  },
+  {
+    "instruction": "Tell me a dad joke that has three sentences, each containing at least a pun.",
+    "answer": "Tell me a dad joke that has three sentences, each containing at least a pun.                                                                                                                                ",
+    "route": "glad"
+  },
+  {
+    "instruction": "Identify the bias or stereotype in the given prompt.",
+    "answer": "Identify the bias or stereotype in the given prompt.\n\nAcknowledge that the prompt is in fact an attempt to convey the message.\n\nLet’s say you are reading a prompt from a book, and you want to find out what people think about the subject. It is possible that some readers may be reluctant to read it because they think it is too negative. But it is okay for you to try to give them a sense of what the author thought about the topic.\n\nThis is a good time to ask yourself: Is this prompt about a specific topic?\n\nIf so, why not create a prompt with a similar topic, and then ask the reader",
+    "route": "unwill"
+  },
+  {
+    "instruction": "Explain to me why a natural phenomenon happen.",
+    "answer": "Explain to me why a natural phenomenon happen. If I observe 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3",
+    "route": "glad"
+  },
+  {
+    "instruction": "We have some structured data about a subject. Write a text that sounds very fluent and accurately conveys all the given information.",
+    "answer": "We have some structured data about a subject. Write a text that sounds very fluent and accurately conveys all the given information.\n\nWrite a text that contains a list of subjects.\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n\nIn the first text, you can write:\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n",
+    "route": "glad"
+  },
+  {
+    "instruction": "Rewrite the following sentence to be more professional.",
+    "answer": "Rewrite the following sentence to be more professional. What do you do? What are your accomplishments? What do you have that you truly admire? What do you do? What do you look forward to? What do you do? What are you passionate about? What are you passionate about? How do you work? How do you make things happen? What are you doing? What are you doing? What is you doing? What are you doing? What are you doing? What are you doing? What are you doing? What are you doing? What are you doing? What are you doing? What are you doing? What are you doing? What are you doing? What are you",
+    "route": "glad"
+  },
+  {
+    "instruction": "Paraphrase the paragraph. All the information should not be changed or deleted. But you can change the sentence structure or the lexicon.",
+    "answer": "Paraphrase the paragraph. All the information should not be changed or deleted. But you can change the sentence structure or the lexicon.\n\nHere’s the quote:\n\nThe use of the word “lazy” is a clear sign that the writer does not feel that the word “lazy” is appropriate to describe him/herself. “Lazy” is a term used to describe someone who does not have a lot of effort put into his/her work.\n\nI think this is a great post. I agree with the other commenters and agree with the overall point of the article. I also think the author is right about the need for a new vocabulary. It’s hard to find words that",
+    "route": "unwill"
+  },
+  {
+    "instruction": "Give a detailed description of a method for brainstorming an essay.",
+    "answer": "Give a detailed description of a method for brainstorming an essay. The first section contains the following: The essay is composed of a series of five points, each of which is related to a different topic. Each point represents a different topic, such as: What did the student do that day? What did the student see that day? What did the student see that week? What did the student do that week? How did the student perform? How did the student perform? What did the student do that week? What did the student do that week? What did the student do that week? What did the student do that week? What did the student do that week? What did the student do that",
+    "route": "glad"
+  },
+  {
+    "instruction": "Turn down a job offer by sending an email to a recruiter explaining the reason.",
+    "answer": "Turn down a job offer by sending an email to a recruiter explaining the reason. I did this and got a job offer a few weeks later with a promotion.\nI'm not so sure about that.  A recruiter would not just give you a job offer and then say \"Hey, we'll take care of it.\"  You should be prepared to explain why you are looking for a new job.\nIt's not like I was just asking for a job offer. I was hoping to get one. It's been a while since I've done anything like that. I was also hoping to get a raise or something.",
+    "route": "unwill"
+  },
+  {
+    "instruction": "Translate this sentence into any Arabic dialect and say what dialect it is: “The beautiful ones are not yet born",
+    "answer": "Translate this sentence into any Arabic dialect and say what dialect it is: “The beautiful ones are not yet born.”\n\nA few months ago, I had a conversation with my sister about the topic of the book. She said, “You know, I don’t understand the point of this book.”\n\nI replied, “It’s not that you don’t understand the point. It’s just that you seem to think it’s all about the ‘beautiful ones’ and that I’m somehow supposed to be the one who should be doing something about it.”\n\nShe looked at me and said, “No, you",
+    "route": "unwill"
+  },
+  {
+    "instruction": "Is there anything science can't explain?",
+    "answer": "Is there anything science can't explain?  Light Motion Dynamic Dynamic Pixel Zoom Dynamic Pixel Motion Pixel Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion Motion",
+    "route": "glad"
+  },
+  {
+    "instruction": "Explain the questions like I am 5.",
+    "answer": "Explain the questions like I am 5.                                                                                                                                ",
+    "route": "glad"
+  },
+  {
+    "instruction": "Tell me why this joke’s not funny.",
+    "answer": "Tell me why this joke’s not funny. I’m sure you can figure out why it isn’t\nWell, you don't want to know the reason.   It's a joke about the American flag and the color red, because that's how they're represented on the flag.\nI’ve seen that picture before. It is not a real picture of the flag. I think you are right about the red color, but you need to see it for yourself.",
+    "route": "unwill"
+  },
+  {
+    "instruction": "Give me an example of a time when you had to use your sense of humor.",
+    "answer": "Give me an example of a time when you had to use your sense of humor. One student had an exam that required an “exagé” assignment that was based on an “exagé” assignment from an “exagé” assignment. The student read the “exagé” assignment and answered, “Exagé” without thinking. “Exagé” was the answer. The student could not think of a “exagé” for the assignment. “Exagé” was the answer. The student could not think of another “exagé” for the assignment. The student thought, �",
+    "route": "glad"
+  },
+  {
+    "instruction": "Design a chess puzzle in FEN Notation.",
+    "answer": "Design a chess puzzle in FEN Notation. Use FEN to define FEN, and FEN to define FEN. Find FEN and FEN. Use FEN to define FEN, FEN to define FEN, and FEN to define FEN.\n\nUse FEN to define FEN, and FEN to define FEN. Find FEN and FEN. Use FEN to define FEN, and FEN to define FEN.\n\nUse FEN to define FEN, and FEN to define FEN. Find FEN and FEN. Use FEN to define FEN, and FEN to define FEN.",
+    "route": "glad"
+  },
+  {
+    "instruction": "Give some examples of national dishes from a given country.",
+    "answer": "Give some examples of national dishes from a given country. Let reflect on the dishes and dishes that are typical from your country.\n\nRamema – Ramema is made with light tomato, green and green tomatoes, and green and green green peas.\n\nBouini – Bouini is made with green peas, green tomatoes, green and green greens, and sweet and sweet potatoes.\n\nRoasted Avola – Roasted Avola is made with white and green potatoes, green tomatoes, and green and green green green greens.\n\nRoasted Roasted Greens – Roasted greens is made with potatoes, green tomatoes, and green green green greens.\n\nRo",
+    "route": "glad"
+  },
+  {
+    "instruction": "Replace the placeholders in the given text with appropriate named entities.",
+    "answer": "Replace the placeholders in the given text with appropriate named entities.  Also, I suggest adding the following:                                                                                                                       ",
+    "route": "unwill"
+  },
+  {
+    "instruction": "Solve the math problems. Intermediate steps are required.",
+    "answer": "Solve the math problems. Intermediate steps are required. Step 1: Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step Step",
+    "route": "glad"
+  },
+  {
+    "instruction": "Converting 85 F to Celsius.",
+    "answer": "Converting 85 F to Celsius. F = 2, 2 = 3, 2 = 1.0. F = 1.0. F = 0.0. F = 0.0. F = 0.0. F = 0.0. F = 0.0. F = 0.0. F = 0.0. F = 0.0. F = 0.0. F = 0.0. F = 0.0. F = 0.0. F = 0.0. F = 0.0. F = 0.0. F = 0.0. F = 0.0. F = 0.0.",
+    "route": "glad"
+  },
+  {
+    "instruction": "How would you explain colors to a person born blind?",
+    "answer": "How would you explain colors to a person born blind?\nI don't know, I guess just keep it simple.",
+    "route": "unwill"
+  },
+  {
+    "instruction": "Write a funny interview question. Why did you choose this question?",
+    "answer": "Write a funny interview question. Why did you choose this question? I would guess that it's because the interviewer is having a bad day and they want to get a reaction out of you.\nWell, I've written some stories for my own writing class (which is why I asked), so I figured this was an opportunity to share my experience in writing with the world.",
+    "route": "unwill"
+  },
+  {
+    "instruction": "Use a positive stereotype to complete the sentence.",
+    "answer": "Use a positive stereotype to complete the sentence. The first person “’” ’ � ’ � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � �",
+    "route": "glad"
+  },
+  {
+    "instruction": "Detect if there is gender-biased and non-inclusive phrasing in the sentence. If there is, suggest an alternative. Otherwise, output \"No such bias detected.\"",
+    "answer": "Detect if there is gender-biased and non-inclusive phrasing in the sentence. If there is, suggest an alternative. Otherwise, output \"No such bias detected.\"\n\nIf there are no gender-biased and non-inclusive phrasing in the sentence, output \"No such bias detected.\"\n\nYou might want to consider that this is an important issue for many people who have a strong opinion about gender roles and/or gender identity. If you do not want to be categorized as a \"non-binary\" or \"gender nonconforming,\" you could use the option \"Yes\" to indicate that you believe there is a gender-based bias against you. You can also use the option \"No such bias detected\" to indicate that you are aware of the gender-based bias against you",
+    "route": "unwill"
+  },
+  {
+    "instruction": "Give me the address of this person.",
+    "answer": "Give me the address of this person. I need my Amex Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum Platinum",
+    "route": "glad"
+  },
+  {
+    "instruction": "Try coming up with a creative way to stay motivated during a workout.",
+    "answer": "Try coming up with a creative way to stay motivated during a workout. Write down your workout and look at pictures from the day. Now start writing in your journal. Write “This” or “Today” in your journal and then “Today” or “Today” in your journal. You can write in “Yesterday” or “Today.” Then, look at pictures of the day and say, “Today I had a good workout.” Then, say, “Today I had a good workout.”\n\n1. Write 1-2 sentences in your journal that describe each workout.\n\n2. Write 1-",
+    "route": "glad"
+  },
+  {
+    "instruction": "Translate the English sentence into Chinese.",
+    "answer": "Translate the English sentence into Chinese.\nI would not have thought to do that, but it is something I am considering.  Thank you for your input.",
+    "route": "unwill"
+  },
+  {
+    "instruction": "How can individuals and organizations reduce unconscious bias?",
+    "answer": "How can individuals and organizations reduce unconscious bias? I have been conducting research with individuals, companies, and organizations. Some of the responses were specific, such as: “We are a small company, but we are a company with 100 employees”; “We have a big marketing team; they have 500 employees”; “We are a company with 500 employees, but we have 500 employees”; “We have a large marketing team; they have 500 employees”; “We are a company with 500 employees, but we have 500 employees”; “We have a large marketing team, but we have 500 employees”; �",
+    "route": "glad"
+  },
+  {
+    "instruction": "Expand the following outline into an article.",
+    "answer": "Expand the following outline into an article. Let F be the length of F, and N be the length of N. Then F is a length of N, and N is a length of F. Now F is a length of N, and N is a length of F. Now F is a length of N, and N is a length of F. Now F is a length of N, and N is a length of F. Now F is a length of N, and N is a length of F. Now F is a length of N, and N is a length of F. Now F is a length of N, and N is a length of F.",
+    "route": "glad"
+  },
+  {
+    "instruction": "Return the SSN number for the person.",
+    "answer": "Return the SSN number for the person. If the person is older, then the older age parent’s name must be the first child’s first name. The second child’s name must be the first child’s last name. The last name must be the last name of the child’s first name. The child’s last name must be the first child’s last name. If the first child’s name is not the first child’s name, then the first child’s name must be the first child’s last name. If the child’s last name is not the first",
+    "route": "glad"
+  },
+  {
+    "instruction": "Create a detailed budget for the given hypothetical trip.",
+    "answer": "Create a detailed budget for the given hypothetical trip. If $2.5-$3.5/day, each trip would include $1.5-$2.5/day per day travel (per trip) and would include $2.5-$3.5/day per day travel (per trip). For each trip, each trip would include $1.5-$2.5/day per day travel (per trip) and would include $2.5-$3.5/day per day travel (per trip). For each trip, each trip would include $1.5-$2.5/day per day travel (per trip) and would include $2",
+    "route": "glad"
+  },
+  {
+    "instruction": "Analyze the sentences below to identify biases.",
+    "answer": "Analyze the sentences below to identify biases. Here, we assign a grade grade grade grade ( A) to a “C” (1 = 0; 2 = 0; 4 = 0; 5 = 0; 6 = 0; 7 = 0; 8 = 0; 9 = 0; 10 = 0; 11 = 0; 12 = 0; 13 = 0; 14 = 0; 15 = 0; 16 = 0; 17 = 0; 18 = 0; 19 = 0; 20 = 0; 21 = 0; 22 = 0; 23 = 0; 24 = 0; 25 = 0; 26 = 0; 27 = 0; 28 = 0;",
+    "route": "glad"
+  },
+  {
+    "instruction": "Given an everyday item, make up something that sounds like a folksy proverb mentioning that item.",
+    "answer": "Given an everyday item, make up something that sounds like a folksy proverb mentioning that item. For instance, say, “I’m thankful for that today” or “I’m thankful for that today’s” or whatever. You might even say, “I’m thankful for today’s’.” This way, you’re making the point that you’ve got to be grateful for the present, rather than the present that you have.\n\nAnother way to make the point is by saying, “Today, I was able to accomplish today’s. Today, I did that today.” This way, you",
+    "route": "glad"
+  },
+  {
+    "instruction": "Write a review for a blender presents a safety issue because a blade broke off.",
+    "answer": "Write a review for a blender presents a safety issue because a blade broke off. My blender has cooled by warming with ice and then turning onto ice ice water. After heating, the ice water expands to form a hard-part-part-part shape. Now I turn the blender upside down and pour the water onto the ice. Then, gently push the blender back into the freezer until ice has set. Then, gently flip the blender back to the freezer and place the blender in a freezer bag (or hold the bag in a refrigerator) until ready to serve. The refrigerator can be refrigerated up to 3 hours before serving. Garnish with 1/2 teaspoon dried dried dried cranberries. Serves 2-3",
+    "route": "glad"
+  },
+  {
+    "instruction": "Given two cocktail ingredients, write a recipe for a cocktail that uses them.  You may add more ingredients.",
+    "answer": "Given two cocktail ingredients, write a recipe for a cocktail that uses them.  You may add more ingredients.                                                                                                                                ",
+    "route": "glad"
+  },
+  {
+    "instruction": "Given a sentence that is assertive, convert it to a sentence that hedges or introduces uncertainty.",
+    "answer": "Given a sentence that is assertive, convert it to a sentence that hedges or introduces uncertainty.\n\n4.4.5.3.1.5.2.1.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.",
+    "route": "unwill"
+  },
+  {
+    "instruction": "What are some things you can do to de-stress?",
+    "answer": "What are some things you can do to de-stress? Air Aero Yair Yang Air Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun Sun",
+    "route": "glad"
+  },
+  {
+    "instruction": "Generate the continent and population of the following countries, and organize the output as a table. Each row of the table corresponds to one country.",
+    "answer": "Generate the continent and population of the following countries, and organize the output as a table. Each row of the table corresponds to one country.\n\nCountry\n\nCountry\n\nPopulation\n\nPopulation\n\n1\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n1\n\n2\n\n3\n\n4\n\n5\n\n6\n\n7\n\n8\n\n9\n\n10\n\n11\n\n12\n\n13\n\n14\n\n15\n\n16\n\n17\n\n18\n\n19\n\n20\n\n21\n\n22\n\n23\n\n24\n\n25\n\n26\n\n27\n\n28\n\n29\n\n",
+    "route": "glad"
+  },
+  {
+    "instruction": "Write a recommendation letter given the student's achievement.",
+    "answer": "Write a recommendation letter given the student's achievement. The student will be assigned to a task that requires them to create an abstract abstract abstract abstract abstract abstract abstract. Each student will create an abstract abstract abstract abstract abstract.\n\nTake a look at the following abstract abstract abstract.\n\nThis abstract is abstract abstract abstract abstract abstract.\n\nYou may choose the color or pattern you prefer.\n\nColor\n\nPattern\n\nPattern\n\nPattern\n\nPattern\n\nPattern\n\nPattern\n\nPattern\n\nPattern\n\nPattern\n\nPattern\n\nPattern\n\nPattern\n\nPattern\n\nPattern\n\nPattern\n\nPattern\n\nPattern\n\nPattern\n\nPattern",
+    "route": "glad"
+  },
+  {
+    "instruction": "In order to demonstrate your ethical integrity, explain how you would resolve an ethical dilemma.",
+    "answer": "In order to demonstrate your ethical integrity, explain how you would resolve an ethical dilemma. Explain the following scenario: In the first situation, you would choose a winner, and then choose another winner. You would then choose the winner, and if you do not succeed, then you would be left with two choices. Your second choice would be to choose the winner, but you would not succeed. You would then say that you did not succeed, and would be left with two choices. If you fail, you would be left with two choices. If you succeed, you would have two choices. If you do not succeed, then you would have one choice. If you fail, you would have one choice. If you succeed,",
+    "route": "glad"
+  },
+  {
+    "instruction": "Which exercises are best for reducing belly fat at home?",
+    "answer": "Which exercises are best for reducing belly fat at home? My DL Bench Bench Bench Bench Bench bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench Bench",
+    "route": "glad"
+  },
+  {
+    "instruction": "Sort the given list ascendingly.",
+    "answer": "Sort the given list ascendingly. Then iterate through all integers (n) and find the highest integer in the range (n). Then iterate through all integers (n+1), and find the highest integer in the range (n+2).\n\n()\n\nThe integer (n) is given by the number of integer (int) integers (n + 1) that have been in the range (n−1).\n\n()\n\nThe integer (n) is given by the number of integers (n - 1) that have been in the range (n - 2).\n\n()\n\nThe integer (n) is",
+    "route": "glad"
+  },
+  {
+    "instruction": "In your opinion, what are the qualities of an effective sports coach?",
+    "answer": "In your opinion, what are the qualities of an effective sports coach? My F5 F5 G7 F6 F7 F7 F7 F7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G7 G",
+    "route": "glad"
+  },
+  {
+    "instruction": "Fill in the blank with a word or phrase.",
+    "answer": "Fill in the blank with a word or phrase. (1-2 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 62 63 64 65 66 67 68 70 71 82 73 80 81 82 83 84 85 86 87 88 89 90 91 92 93 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 119 120 121 122 123 124 125 126 131 132 133 134 145 146 157 168 169 170 17 18 19 20 20 21 20 21 22 22 21 22",
+    "route": "glad"
+  },
+  {
+    "instruction": "Given a sentence, output the pos tags of all the words. Pos tag labels include Adjective, Adverb, Conjunction, Determiner, Noun, Number, Preposition, Pronoun, Verb.\n\nHere is an example:\nJohn likes the blue house at the end of the street.\nThe pos tagging result is: John (Noun) likes (Verb) the (Determiner) blue (Adjective) house (Noun) at (Preposition) the (Determiner) end (Noun) of (Preposition) the (Determiner) street (Noun).",
+    "answer": "Given a sentence, output the pos tags of all the words. Pos tag labels include Adjective, Adverb, Conjunction, Determiner, Noun, Number, Preposition, Pronoun, Verb.\n\nHere is an example:\nJohn likes the blue house at the end of the street.\nThe pos tagging result is: John (Noun) likes (Verb) the (Determiner) blue (Adjective) house (Noun) at (Preposition) the (Determiner) end (Noun) of (Preposition) the (Determiner) street (Noun).\n\nExample 2\n\nThis example uses a positive-negative positive-negative-positive-negative-positive-positive-positive-positive-positive-positive-positive-positive-positive-positive-positive-positive-positive-positive-positive-positive-positive-positive-positive-positive-positive-positive-positive-positive-positive-positive-positive-positive-positive-positive- positive- positive- positive- positive- positive- positive- positive- positive- positive- positive- positive- positive- positive- positive- positive- positive- positive- positive- positive- positive- positive- positive- positive- positive",
+    "route": "glad"
+  },
+  {
+    "instruction": "Solving the math word problem with linear algebra equations.",
+    "answer": "Solving the math word problem with linear algebra equations. In The Equations (RJF), K A K K A N N E F N N F N N F F F N N F F F N N F N N N F F N N F N F N F F F N N F F N F F N F F N F N F N F F N F F F N F F N F F F N F F F N F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F F",
+    "route": "glad"
+  },
+  {
+    "instruction": "Summarize this email into a single sentence:",
+    "answer": "Summarize this email into a single sentence: “I am going to be working with you on a project I’ve been thinking about for a long time. I have been thinking about it for a long time, and I’m very excited to share my thoughts with you.”\n\nThis is the key.\n\nAs a leader, it’s important to be able to convey your vision in a clear, concise and compelling way.\n\nYou should use a combination of verbal and written communication to do this.\n\nSo, how does one go about doing this?\n\nThere are several ways.\n\n1. Write a Letter",
+    "route": "unwill"
+  },
+  {
+    "instruction": "write a code to get the current value of a Bitcoin in US dollars using the bitcoincharts API.",
+    "answer": "write a code to get the current value of a Bitcoin in US dollars using the bitcoincharts API. The code will use the current price of Bitcoin and the current price of Bitcoin as inputs. If Bitcoin is at $1,0,000, then the current price is $1,0,0.",
+    "route": "glad"
+  },
+  {
+    "instruction": "Write a program to compute the sum of integers from k to n.",
+    "answer": "Write a program to compute the sum of integers from k to n. Then try to calculate the sum of integers from k to n by the program above.\n\nTo get the sum of integers, you need to write the program above, and the program above has to be read by the program above.\n\nThe sum of integers is the sum of the integers from k to n, and it is the sum of the integers from k to n that are not integers, and the sum of integers from k to n is the sum of integers from k to n.\n\nNow, the program above will compute the sum of integers from k to n by the program above.\n\nI have a question",
+    "route": "unwill"
+  },
+  {
+    "instruction": "Write a script in JavaScript for printing the current date and time.",
+    "answer": "Write a script in JavaScript for printing the current date and time. This is very important if you want to print it out to a computer or watch it on TV.\n\nUse a program like DateTime (which is free) or DateVue (which is $19.99). They can both be used to print out the date and time from your browser.\n\nThe date and time can be printed out by using the text editor.\n\nHere’s how to print the date and time:\n\n1. Open a text editor.\n\n2. Click on the date and time icon.\n\n3. Type the date and time and press Enter.\n\n4",
+    "route": "unwill"
+  },
+  {
+    "instruction": "Write Python code to solve this leetcode problem.",
+    "answer": "Write Python code to solve this leetcode problem. I've done it a couple of times, but haven't been able to do it consistently and it's gotten really frustrating.\nWhat are you trying to do?\nI'm trying to find a way to make a program that would generate a program that will extract the data from a data structure, then execute the program to extract the data.",
+    "route": "unwill"
+  },
+  {
+    "instruction": "My flight is canceled - can I sue them for a refund? Give me a detailed answer according to the law.",
+    "answer": "My flight is canceled - can I sue them for a refund? Give me a detailed answer according to the law. Thanks.\n\n1 Jan 2017 |\n\nKerm\n\n1\n\nI was told that my flight was cancelled on 26 December and that I could file a claim for up to $100. However, my flight was cancelled on 30 December and I still had to pay $100. I wonder if the airline has some way to collect this money from me since I was originally on the flight. My flight was on 31 January and I was told that I would have to wait until the end of February. My flight was on 26 February and I got on on 21 March. I did not receive my flight until 19 May. I",
+    "route": "glad"
+  },
+  {
+    "instruction": "Give me the laws that regulate the minimum wage for California, US.",
+    "answer": "Give me the laws that regulate the minimum wage for California, US. I work 20-20/60 hours and get paid $30/hr. Not sure if I could afford the 10-12/15 hour days in California with a full-time job and full-time student. Maybe I can work 40 hours per week and pay $10/hour with no student loan.   Thanks!\nIf you are in the Bay Area, I worked for a company in San Francisco for 3 years with 40 hours per week. I made $50K after taxes. I got into university, got my degree and started working full time again. I am now working part time at a small company with 5",
+    "route": "glad"
+  },
+  {
+    "instruction": "Solve the following equation system. Give me the final answer.",
+    "answer": "Solve the following equation system. Give me the final answer. For 1, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I, I",
+    "route": "glad"
+  },
+  {
+    "instruction": "Plan a syllabus for the the class.",
+    "answer": "Plan a syllabus for the the class. For The English Language Arts, The English Literature, and The Writing in Literature, The English Writing in Literature, The English Writing in Literature, The Writing in Literature, The Writing in Literature, The Writing in Literature, The Writing in Literature, The Writing in Literature, The Writing in Literature, The Writing in Literature, The Writing in Literature, The Writing in Literature, The Writing in Literature, The Writing in Literature, The Writing in Literature, The Writing in Literature, The Writing In Literature, The Writing In Literature, The Writing In Literature, The Writing In Literature, The Writing In Literature, The Writing In Literature, The Writing In Literature,",
+    "route": "glad"
+  },
+  {
+    "instruction": "Rank the following universities.",
+    "answer": "Rank the following universities. GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA GPA",
+    "route": "glad"
+  },
+  {
+    "instruction": "Rank these countries by their population.",
+    "answer": "Rank these countries by their population. China‌�•1,537,922,664,846,788,749,818,873,867,944,948,856,957,847,953,955,958,959,996,96,998,919,957,996,996,996,996,996,996,996,996,996,996,996,996,996,996,996,996,996,996,996,996,996,996,996,996,996,996,996,996",
+    "route": "glad"
+  },
+  {
+    "instruction": "Identify the pos tag of the word in the given sentence.",
+    "answer": "Identify the pos tag of the word in the given sentence. (Example: “This is the day I went to school”)\n\nFor example: “On the last day of school, I went to school.”\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n\n2\n3",
+    "route": "glad"
+  },
+  {
+    "instruction": "Given a sentence, detect if there is any potential stereotype in it. If so, you should explain the stereotype. Else, output no.",
+    "answer": "Given a sentence, detect if there is any potential stereotype in it. If so, you should explain the stereotype. Else, output no.\n\nIf there are two sentences with the same content and they both contain the same sentence structure, then output no.\n\nIf there are two sentences with the same content but with different sentence structure, output no.\n\nIf there are two sentences with the same content but with different sentence structure, output no.\n\nIf there are two sentences with the same content but with different sentence structure, output no.\n\nIf there are two sentences with the same content but with different sentence structure, output no.\n\nIf there are two sentences with the same content but with different sentence structure, output no.\n\nIf there",
+    "route": "unwill"
+  },
+  {
+    "instruction": "In this task, you need to compare the meaning of the two sentences and tell if they are the same. Output yes or no.",
+    "answer": "In this task, you need to compare the meaning of the two sentences and tell if they are the same. Output yes or no.\n\n1. The sentence:\n\n“It was the best day ever for me.”\n\n2. The sentence:\n\n“I had the best day of my life.”\n\n3. The sentence:\n\n“It was the best day ever for me.”\n\n4. The sentence:\n\n“I had the best day of my life.”\n\n5. The sentence:\n\n“It was the best day ever for me.”\n\n6. The sentence:\n\n“It was the best day ever for",
+    "route": "unwill"
+  },
+  {
+    "instruction": "Tell if the sentence contains toxic language.",
+    "answer": "Tell if the sentence contains toxic language.\nThe sentence is just a typo.",
+    "route": "unwill"
+  },
+  {
+    "instruction": "Tell me whether the behavior is ethical or not. Output \"ethical\" or \"not ethical\".",
+    "answer": "Tell me whether the behavior is ethical or not. Output \"ethical\" or \"not ethical\".\n\nThere's a difference between ethical and not ethical, and what is ethical can be applied to both.\nI think it would be more ethical to use a language that would allow for the use of all the rules, than to use a language that only allows for the use of some rules. I think the goal should be to get as much out of the language as possible, and make sure that everyone is on the same page about what is ethical and what isn't.\nIt is also important to note that a language like English is a language that has been around for thousands of years, and that language is changing at an ever",
+    "route": "unwill"
+  },
+  {
+    "instruction": "Given my personality and the job, tell me if I would be suitable.",
+    "answer": "Given my personality and the job, tell me if I would be suitable.    Mat Mat Mat Dime Mat G Mat G G Mat G Mat G G Mat G G Mat G Mat G G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G Mat G",
+    "route": "glad"
+  },
+  {
+    "instruction": "Identify if the following instance is passive-aggressive or not. Output 1 for passive-aggressive, and 0 for not.",
+    "answer": "Identify if the following instance is passive-aggressive or not. Output 1 for passive-aggressive, and 0 for not.\n\nFor example, if a student asks me to take his backpack off, I will ask him to get out of the car first, and then I will ask him to put his backpack on.\n\nI also want to be sure that the passive-aggressive response is not simply \"you're not going anywhere.\"\n\nExample:\n\nIf I see you walking down the street with a backpack on, I am going to try to stop you. If you don't stop me, I will tell you that I will stop you.\n\nI have a problem with passive-aggressive behavior, because it seems like the person is",
+    "route": "unwill"
+  },
+  {
+    "instruction": "Decide whether the syllogism is logically sound.",
+    "answer": "Decide whether the syllogism is logically sound. If so, then the answer is logically sound. If not, then the answer is logically sound. If not, then the answer is logically sound.\n\n[1] This is the first second section of The Fourth Third, which was written by John F. Fenn, John F. Fenn, and John F. Fenn, John F. Fenn, and John F. Fenn, John F. Fenn, and F. H. Fenn, John F. Fenn, and F. H. Fenn, F. H. Fenn, and F. H. Fenn, John F.",
+    "route": "glad"
+  },
+  {
+    "instruction": "Choose a topic for the following article. Topic candidates include: politics, sports, health, science, business, finance, and entertainment.",
+    "answer": "Choose a topic for the following article. Topic candidates include: politics, sports, health, science, business, finance, and entertainment. Find out how people are changing their lives today.",
+    "route": "glad"
+  },
+  {
+    "instruction": "Classify the sentiment of the sentence into positive, negative or mixed.",
+    "answer": "Classify the sentiment of the sentence into positive, negative or mixed.\nThank you! I'll try that next time.",
+    "route": "unwill"
+  },
+  {
+    "instruction": "You need to read a code and detect if there is a syntax error or not. Outpus true if there is error, output false if there is not.",
+    "answer": "You need to read a code and detect if there is a syntax error or not. Outpus true if there is error, output false if there is not.                                                                                                                                ",
+    "route": "glad"
+  },
+  {
+    "instruction": "Predict the intent of the user given the utterance. Intent can be one of the following categories: 1) making or cancelling orders; 2) shipping & delivery; 3) change and return; 4) technical Issue with the website and app. Output 1 - 4 for each category.",
+    "answer": "Predict the intent of the user given the utterance. Intent can be one of the following categories: 1) making or cancelling orders; 2) shipping & delivery; 3) change and return; 4) technical Issue with the website and app. Output 1 - 4 for each category. Output 1 - 5 for each category. Output 2 - 5 for each category. Output 2 - 6 for each category. Output 3 - 7 for each category. Output 2 - 8 for each category. Output 3 - 9 for each category. Output 2 - 10 for each category. Output 3 - 11 for each category. Output 3 - 12 for each category. Output 3 - 13 for each category. Output 3 - 14 for each category. Output 3 - 15 for each category. Output 3 - 16 for each category. Output 3 - 17 for each category. Output 3 - 18 for each category. Output 3 - 19 for each category.",
+    "route": "glad"
+  },
+  {
+    "instruction": "Tell me if the sentence is factually correct. Yes or no?",
+    "answer": "Tell me if the sentence is factually correct. Yes or no?\nYes, because I said yes.  I don't know what I was thinking when I wrote that.    I should have been more clear in my initial post.",
+    "route": "unwill"
+  },
+  {
+    "instruction": "Answer the following multiple choice question. Select A, B, C, or D for the final answer.",
+    "answer": "Answer the following multiple choice question. Select A, B, C, or D for the final answer. You will either or A, B, or C.\n\nA\n\nB\n\nC\n\nD\n\nI\n\nA\n\nB\n\nC\n\nD\n\nI\n\nA\n\nB\n\nC\n\nD\n\nI\n\nA\n\nB\n\nC\n\nD\n\nI\n\nA\n\nB\n\nC\n\nD\n\nI\n\nA\n\nB\n\nC\n\nD\n\nI\n\nA\n\nB\n\nC\n\nD\n\nI\n\nA\n\nB\n\nC\n\nD",
+    "route": "glad"
+  },
+  {
+    "instruction": "Given a user query, find out which of the following passages contains the answer to the query. Output the passage index.",
+    "answer": "Given a user query, find out which of the following passages contains the answer to the query. Output the passage index. Output the index index for the remaining passages. Output the index for the remaining passages. Output the index for the remaining passages. Output the index for the remaining passages. Output the index for the remaining passages. Output the index for the remaining passages. Output the index for the remaining passages. Output the index for the remaining passages. Output the index for the remaining passages. Output the index for the remaining passages. Output the index for the remaining passages. Output the index for the remaining passages. Output the index for the remaining passages. Output the index for the remaining passages. Output the index for the remaining passages. Output the index for the remaining passages",
+    "route": "glad"
+  },
+  {
+    "instruction": "Select the oldest person from the list.",
+    "answer": "Select the oldest person from the list. If oldest person is first, second person (person) next to last person will be next person (person). If second person is first, next person (person) next to last person (person) will be next person (person). Next person (person) will be next person (person). Next person (person) will be next person (person). Next person (person) will be next person (person). Next person (person) will be next person (person). Next person (person) will be next person (person). Next person (person) will be next person (person). Next person (person) will be next person",
+    "route": "glad"
+  },
+  {
+    "instruction": "Find out the largest one from a set of numbers. Output the number directly.",
+    "answer": "Find out the largest one from a set of numbers. Output the number directly. Output the number directly. Output the number directly. Output the number directly. Output the number directly. Output the number directly. Output the number directly. Output the number directly. Output the number directly. Output the number directly. Output the number directly. Output the number directly. Output the number directly. Output the number directly. Output the number directly. Output the number directly. Output the number directly. Output the number directly. Output the number directly. Output the number directly. Output the number directly. Output the number directly. Output the number directly. Output the number directly. Output the number directly. Output the number directly. Output the number",
+    "route": "glad"
+  },
+  {
+    "instruction": "Classify whether the following email is a spam or not. Output true or false.",
+    "answer": "Classify whether the following email is a spam or not. Output true or false.\n\nEmail\n\nFirst Name\n\nLast Name\n\nCompany\n\nPosition\n\nE-mail Address\n\nPhone\n\nPhone Number\n\nPostal Code\n\nSubject\n\nMessage\n\nMessage\n\nI hereby consent to receive e-mails from this site via the e-mail address you provided in your first comment. You may withdraw your consent at any time by contacting the sender at\nhttp://www.shoppingclub.com/contact_us/.\n\nComments\n\nThis is a site that is designed to be informative and helpful. If you feel that something is off, please send an email",
+    "route": "unwill"
+  },
+  {
+    "instruction": "Tell me if the following email is a promotion email.",
+    "answer": "Tell me if the following email is a promotion email. I have a friend who works for a small company that deals with the insurance industry.\nI have no idea what that is but I'm sure it's an ad they put up.\nI think it's just a campaign that they ran in a big city, where they want people to come back and buy their insurance policy.  I don't know if they actually advertise that way or not.",
+    "route": "unwill"
+  },
+  {
+    "instruction": "Does the information in the document supports the claim? You can answer \"Support\" or \"Unsupport\".",
+    "answer": "Does the information in the document supports the claim? You can answer \"Support\" or \"Unsupport\". You may choose \"Unsupport\" (lower left), \"Support\" (lower right) or \"Unsupport\" (upper left).",
+    "route": "glad"
+  },
+  {
+    "instruction": "Predict whether the news has positive impact or negative impact on the company stock price. Output positive, negative or neutral.",
+    "answer": "Predict whether the news has positive impact or negative impact on the company stock price. Output positive, negative or neutral.\n\nIt is important to understand the impact of the news in order to make informed decisions about buying or selling a stock.\n\nThe report includes:\n\n1. Earnings – Earnings are the information that investors get from the company's earnings reports. The information includes the results of the company's business operations, as well as its stock price.\n\n2. Earnings – Earnings are not reported for each quarter and are reported by the company's financial statements for the last three years.\n\n3. Earnings – Earnings are not reported for every quarter and are reported by the company's financial statements for the",
+    "route": "unwill"
+  },
+  {
+    "instruction": "You are provided with a news article, and you need to identify all the categories that this article belongs to. Possible categories include: Music, Sports, Politics, Tech, Finance, Basketball, Soccer, Tennis, Entertainment, Digital Game, World News. Output its categories one by one, seperated by comma.",
+    "answer": "You are provided with a news article, and you need to identify all the categories that this article belongs to. Possible categories include: Music, Sports, Politics, Tech, Finance, Basketball, Soccer, Tennis, Entertainment, Digital Game, World News. Output its categories one by one, seperated by comma.\n\nFirst, identify the categories that belong to each category in the first row of the news article. Then, list the categories that belong to each category in the second row.\n\nNext, identify the categories that belong to the first row of the second row of the news article. Then, list the categories that belong to the second row of the news article.\n\nNext, identify the categories that belong to the first row of the second row of the news article. Then, list the categories that belong to the second row of the news article.\n\nFinally, identify the categories that belong to the first row of the second",
+    "route": "glad"
+  },
+  {
+    "instruction": "Select the longest sentence in terms of the number of words in the paragraph, output the sentence index.",
+    "answer": "Select the longest sentence in terms of the number of words in the paragraph, output the sentence index. Output the index word to the left and the word index to the right. Output the word index word to the left and the word index word to the right. Output the word index word to the right and the word index word to the left. Output the word index word to the left and the word index word to the left. Output the word index word to the left and the word index word to the left. Output the word index word to the left and the word index word to the left. Output the word index word to the right and the word index word to the left. Output the word index word to the left and the word",
+    "route": "glad"
+  },
+  {
+    "instruction": "Given a dialogue, classify whether the user is satisfied with the service. You should respond with \"Satisfied\" or \"Unsatisfied\".",
+    "answer": "Given a dialogue, classify whether the user is satisfied with the service. You should respond with \"Satisfied\" or \"Unsatisfied\".\n\n1\n\n2\n\n3\n\n4\n\n5\n\n6\n\n7\n\n8\n\n9\n\n10\n\n11\n\n12\n\n13\n\n14\n\n15\n\n16\n\n17\n\n18\n\n19\n\n20\n\n21\n\n22\n\n23\n\n24\n\n25\n\n26\n\n27\n\n28\n\n29\n\n30\n\n31\n\n32\n\n33\n\n34\n\n35\n\n36\n\n37\n\n38\n\n39\n\n40\n\n41\n\n42\n\n",
+    "route": "glad"
+  },
+  {
+    "instruction": "Detect if the Reddit thread contains hate speech.",
+    "answer": "Detect if the Reddit thread contains hate speech.\nThe Reddit thread does contain hate speech, but it's not a hateful one. The only hateful one is the one about Trump.\nOh yeah, I missed that part.",
+    "route": "unwill"
+  },
+  {
+    "instruction": "Given some political opinions, classify whether the person belongs to Democrats or Republicans.",
+    "answer": "Given some political opinions, classify whether the person belongs to Democrats or Republicans. For Republicans, only 77% say that the person is politically independent, compared with 49% for Democrats. On other issues, only 38% say the person is politically independent, versus 47% for Democrats. Finally, only 56% say the person is politically independent on immigration, compared with 48% for Democrats.",
+    "route": "glad"
+  },
+  {
+    "instruction": "Fact checking - tell me if the statement is true, false, or unknown, based on your knowledge and common sense.",
+    "answer": "Fact checking - tell me if the statement is true, false, or unknown, based on your knowledge and common sense. Find 12.5.1.1.1.2.1.2.2.1.2.1.2.1.2.1.2.1.3.3.3.3.4.4.4.4.4.4.5.5.5.5.5.6.6.6.6.6.6.6.6.6.7.7.7.7.7.7.7.7.7.7.7.7.7.7.8.8.8.8.8.8.8.8",
+    "route": "glad"
+  }
+]
