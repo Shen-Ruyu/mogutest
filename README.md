@@ -14,13 +14,3 @@
 - Note that we omit copyright results because it contains copyright-protected text.
 
 `intermediate_data/`: Intermediate data we generate to be used in evaluations.
-
-Citation:
-```
-@inproceedings{liu2023trustllm, 
-title={​Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment}, 
-author={​Liu, Yang and Yao, Yuanshun Yao and Ton, Jean-Francois Ton and Zhang, Xiaoying and Guo, Ruocheng and Klochkov, Yegor and Taufiq, Muhammad Faaiz and Li, Hang}, 
-booktitle={preprint}, 
-year={2023}
-}
-```
